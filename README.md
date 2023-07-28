@@ -12,3 +12,8 @@ CuPy: CuPy is another Python library that provides a NumPy-compatible interface 
 Numba: Numba is a just-in-time (JIT) compiler for Python that can translate Python functions to optimized machine code, including code that can run on the GPU using CUDA. Numba simplifies the process of GPU programming by automatically parallelizing loops and other computations.
 
 TensorFlow and PyTorch: Popular deep learning frameworks like TensorFlow and PyTorch have integrated support for CUDA, allowing you to run deep learning models on NVIDIA GPUs. These frameworks internally use CUDA for efficient tensor computations
+
+
+
+### Source
+[Hands-On GPU Programming with Python and CUDA](https://github.com/PacktPublishing/Hands-On-GPU-Programming-with-Python-and-CUDA)
